@@ -1,41 +1,41 @@
 
 payload:
-  - DOMAIN-SUFFIX,play.charontv.com
+    - DOMAIN-SUFFIX,play.charontv.com
   #卡戎
   
-  - DOMAIN-SUFFIX,film.hovervan.org
+    - DOMAIN-SUFFIX,film.hovervan.org
   #NMemby
   
-  - DOMAIN-SUFFIX,misty.cx
+    - DOMAIN-SUFFIX,misty.cx
   #Misty
   
-  - DOMAIN-SUFFIX,media.nijigem.by
+    - DOMAIN-SUFFIX,media.nijigem.by
   #二次元emby 
   
-  - DOMAIN-SUFFIX,stream_pilipili.misakaf.org
-  - DOMAIN-SUFFIX,pilipili.club
+    - DOMAIN-SUFFIX,stream_pilipili.misakaf.org
+    - DOMAIN-SUFFIX,pilipili.club
   #pilipili 
   
-  - DOMAIN-SUFFIX,gd.9521732.xyz
+    - DOMAIN-SUFFIX,gd.9521732.xyz
   #纸片人
   
-  - DOMAIN-SUFFIX,v.20120714.xyz
+    - DOMAIN-SUFFIX,v.20120714.xyz
   #Marmot_emby
   
-  - DOMAIN-SUFFIX,132.226.229.139
+    - DOMAIN-SUFFIX,132.226.229.139
   #开心服
   
-  - DOMAIN-SUFFIX,random.ouonet.org
+    - DOMAIN-SUFFIX,random.ouonet.org
   #OuO&JMS
   
-  - DOMAIN-SUFFIX,cf.jmsooo.com
-  - DOMAIN-SUFFIX,cf1.jmsuper.com
+    - DOMAIN-SUFFIX,cf.jmsooo.com
+    - DOMAIN-SUFFIX,cf1.jmsuper.com
   #JMS 
   
-  - DOMAIN-SUFFIX,pub1.term.wtf 
-  - DOMAIN-SUFFIX,pub3.term.wtf
+    - DOMAIN-SUFFIX,pub1.term.wtf 
+    - DOMAIN-SUFFIX,pub3.term.wtf
   #终点站备用路线
   
-  - DOMAIN-SUFFIX,jsq.mooguu.top
+    - DOMAIN-SUFFIX,jsq.mooguu.top
   #见手青
-  - DOMAIN-KEYWORD,emby
+    - DOMAIN-KEYWORD,emby
