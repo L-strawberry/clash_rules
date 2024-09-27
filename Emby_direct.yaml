@@ -1,24 +1,24 @@
 
 payload:
-  - DOMAIN-SUFFIX,pub1cf.emby.wtf
-  - DOMAIN-SUFFIX,pub3cf.emby.wtf
+    - DOMAIN-SUFFIX,pub1cf.emby.wtf
+    - DOMAIN-SUFFIX,pub3cf.emby.wtf
   #终点站直连路线
   
-  - DOMAIN-SUFFIX,vip2.jellyfin.asia
+    - DOMAIN-SUFFIX,vip2.jellyfin.asia
   #水母直连路线
   
-  - DOMAIN-SUFFIX,emby.127255.best
+    - DOMAIN-SUFFIX,emby.127255.best
   #开心服v6直连
   
-  - DOMAIN-SUFFIX,pilifun.top
-  - DOMAIN-SUFFIX,emby-kyoma.pilipiliultra.com
-  - DOMAIN-SUFFIX,css.pilipili.club
-  - DOMAIN-SUFFIX,otto.pilipili.club
-  - DOMAIN-SUFFIX,电棍专线.霹雳霹雳.com
+    - DOMAIN-SUFFIX,pilifun.top
+    - DOMAIN-SUFFIX,emby-kyoma.pilipiliultra.com
+    - DOMAIN-SUFFIX,css.pilipili.club
+    - DOMAIN-SUFFIX,otto.pilipili.club
+    - DOMAIN-SUFFIX,电棍专线.霹雳霹雳.com
   #pilipili直连路线
   
   
   
   
-  - DOMAIN-KEYWORD,1password
+    - DOMAIN-KEYWORD,1password
   #1password
