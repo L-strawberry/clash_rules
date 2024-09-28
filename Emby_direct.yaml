@@ -7,8 +7,6 @@ payload:
     - DOMAIN,vip2.jellyfin.asia
   #水母直连路线
   
-    - DOMAIN,emby.127255.best
-  #开心服v6直连
   
     - DOMAIN,pilifun.top
     - DOMAIN,emby-kyoma.pilipiliultra.com
