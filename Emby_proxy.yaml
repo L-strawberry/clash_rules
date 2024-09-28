@@ -38,4 +38,8 @@ payload:
   
     - DOMAIN,jsq.mooguu.top
   #见手青
+
+  - DOMAIN,emby.127255.best
+  #开心服v6
+  
     - DOMAIN-KEYWORD,emby
