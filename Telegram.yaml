@@ -3,3 +3,6 @@
     #telegram
     - PROCESS-NAME,xyz.nextalone.nagram,TELEGRAM 
     #nagram 
+    - PROCESS-NAME,tw.nekomimi.nekogram,TELEGRAM 
+    #nekogram 
+    
