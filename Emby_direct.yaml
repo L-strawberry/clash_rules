@@ -14,6 +14,9 @@ payload:
     - DOMAIN,otto.pilipili.club
     - DOMAIN,us.pilifun.top
   #pilipili直连路线
+
+    - DOMAIN,api.dandanplay.net
+  #弹弹play
   
   
   
