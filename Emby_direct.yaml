@@ -16,9 +16,8 @@ payload:
   #pilipili直连路线
 
     - DOMAIN,api.dandanplay.net
+    - DOMAIN,cas.dandanplay.net
   #弹弹play
-  
-  
   
   
     - DOMAIN-KEYWORD,1password
