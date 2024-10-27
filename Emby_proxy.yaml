@@ -49,6 +49,7 @@ payload:
   #temby 
 
   - DOMAIN,embymv.link
+  - '193.123.232.141/24'
   #peach 
   
   - DOMAIN-KEYWORD,emby
