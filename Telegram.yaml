@@ -1,8 +1,8 @@
   payload:
-    - PROCESS-NAME,org.telegram.messenger,TELEGRAM
+    - PROCESS-NAME,org.telegram.messenger
     #telegram
-    - PROCESS-NAME,xyz.nextalone.nagram,TELEGRAM 
+    - PROCESS-NAME,xyz.nextalone.nagram 
     #nagram 
-    - PROCESS-NAME,tw.nekomimi.nekogram,TELEGRAM 
+    - PROCESS-NAME,tw.nekomimi.nekogram 
     #nekogram 
     
