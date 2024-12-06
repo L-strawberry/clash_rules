@@ -1,0 +1,7 @@
+payload:
+    - PROCESS-NAME,com.hush.yamby
+    - PROCESS-NAME,com.mountains.hills
+    - PROCESS-NAME,com.attempt.afusekt 
+    - PROCESS-NAME,com.mb.android
+   
+   #Emby包名匹配
