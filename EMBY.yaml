@@ -4,5 +4,5 @@ payload:
     - PROCESS-NAME,com.attempt.afusekt 
     - PROCESS-NAME,com.mb.android
     - PROCESS-NAME,work.aliz.femor
-    - PROCESS-NAME,com.agc.player
+    - PROCESS-NAME,com.oumi.utility.media.hub
    #Emby包名匹配
